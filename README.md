@@ -1,6 +1,6 @@
 ### 1.3 Переменные многопоточной программы. ThreadLocal. Atomics. Volatile.
 ## Задача 1. Самая бесполезная коробка
-Код по [ссылке]()
+Код по [ссылке](https://github.com/A-Sakhmina/netology_multithreading_useless_box/tree/master/src/main/java)
 ### Описание
 Реализация игрушки cамая [бесполезная коробка](https://www.youtube.com/watch?v=tGCW8xftdOA). 
 Один поток будет выключать тумблер, а второй будет эмулировать пользователя, 
